@@ -1,4 +1,4 @@
-### <h1>Hi, I'm Ted. 🧑🏻‍💻 
+### <h1>Hi, I'm Ted 🧑🏻‍💻 
 
 Welcome, have a look around. <h1>
 
