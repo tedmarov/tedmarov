@@ -1,4 +1,4 @@
-### Hi. Have a look around 🧑🏻‍💻
+### Hi, I'm Ted. Welcome, have a look around. 🧑🏻‍💻
 
 ![](https://komarev.com/ghpvc/?username=tedmarov&style=flat-square)
 
