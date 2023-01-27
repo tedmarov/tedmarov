@@ -1,4 +1,6 @@
-### <h1>Hi, I'm Ted. 🧑🏻‍💻 Welcome, have a look around. <h1>
+### <h1>Hi, I'm Ted. 🧑🏻‍💻 
+
+Welcome, have a look around. <h1>
 
 ![](https://komarev.com/ghpvc/?username=tedmarov&style=flat-square)
 
