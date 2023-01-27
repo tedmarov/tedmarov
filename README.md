@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi. Have a look around 🧑🏻‍💻
 
 ![](https://komarev.com/ghpvc/?username=tedmarov&style=flat-square)
 
