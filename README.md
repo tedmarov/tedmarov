@@ -1,8 +1,8 @@
 
+# <h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=33&pause=1000&repeat=false&width=435&lines=Hi%2C+I'm+Ted.)](https://git.io/typing-svg)
+# 👨🏻‍💻
 
-### <h1>👨🏻‍💻</h1>
-
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=33&pause=1000&repeat=false&width=435&lines=Hi%2C+I'm+Ted.;Welcome%2C+have+a+look+around.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=33&pause=1000&repeat=false&width=435&lines=Hi%2C+I'm+Ted.;Welcome%2C+have+a+look+around.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=tedmarov&style=flat-square)
 
