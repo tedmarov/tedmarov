@@ -1,6 +1,6 @@
-# 👨🏻‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=37&duration=7777&pause=7777&color=89DDFF&multiline=true&width=750&height=57&lines=Hi%2C+I'm+Ted.+Welcome%2C+have+a+look+around.+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=33&pause=1000&repeat=false&width=435&lines=Hi%2C+I'm+Ted.;Welcome%2C+have+a+look+around.)]()
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=tedmarov&style=flat-square)
 
@@ -30,7 +30,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tedmarov&theme=blueberry_duo&border_radius=27&mode=weekly&mode=weekly)](https://git.io/streak-stats)
 
