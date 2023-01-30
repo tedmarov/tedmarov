@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=37&duration=7777&pause=7777&color=89DDFF&multiline=true&width=750&height=57&lines=Hi%2C+I'm+Ted.+Welcome%2C+have+a+look+around.+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=37&duration=7777&pause=7777&color=89DDFF&multiline=true&width=750&height=57&lines=Hi%2C+I'm+Ted.+Welcome%2C+have+a+look+around.+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
