@@ -48,7 +48,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tedmarov&theme=blueberry_duo&border_radius=27&mode=weekly&mode=weekly)](https://git.io/streak-stats)
 
-<!--
+<!---
 **tedmarov/tedmarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas:
@@ -61,4 +61,4 @@ Here are some ideas:
 - 📫 How to reach me:...
 - 😄 Pronouns:...
 - ⚡ Fun fact:...
--->
+--->
