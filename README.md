@@ -54,7 +54,7 @@
 Here are some ideas:
 
 - 🔭 I’m working on items
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning how to be a TA
 - 👯 I’m looking to collaborate on...
 - 🤔 I’m looking for help with things
 - 💬 Ask me about things
