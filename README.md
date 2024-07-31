@@ -63,3 +63,7 @@ Here are some ideas:
 - 😄 Pronouns:
 - ⚡ Fun fact:
 --->
+
+MIT License
+https://github.com/tedmarov/tedmarov.github.io/blob/main/LICENSE
+
